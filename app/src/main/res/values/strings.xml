@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps_HW</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="last_known_loc_msg">Last known location</string>
+    <string name="Acceleration">Acceleration</string>
+    <string name="clear_memory">Clear Memory</string>
+</resources>
